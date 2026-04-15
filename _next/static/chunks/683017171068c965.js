@@ -1002,7 +1002,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       ),
                       (0, t.jsx)(i, {}),
                       (0, t.jsx)("a", {
-                        href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
+                        href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "btn-primary text-sm",
@@ -1061,7 +1061,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                         children: [
                           (0, t.jsx)(i, {}),
                           (0, t.jsx)("a", {
-                            href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
+                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -1294,7 +1294,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                         "flex flex-col sm:flex-row gap-4 justify-center lg:justify-start",
                       children: [
                         (0, t.jsx)("a", {
-                          href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
+                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className: "btn-primary text-lg px-8 py-4 pulse-neon",
@@ -2287,7 +2287,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
               className: "flex flex-wrap gap-4 justify-center mt-12",
               children: [
                 (0, t.jsxs)("a", {
-                  href: "https://app.uniswap.org/explore/tokens/ethereum/0xComingSoon",
+                  href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
