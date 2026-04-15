@@ -1187,15 +1187,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                 (0, t.jsxs)("div", {
                   className: "text-center lg:text-left max-w-xl",
                   children: [
-                    (0, t.jsx)("div", {
-                      className:
-                        "mb-4 flex flex-wrap gap-2 justify-center lg:justify-start",
-                      children: (0, t.jsx)("span", {
-                        className:
-                          "inline-block px-4 py-1 bg-[#178d19]/10 border border-[#178d19]/30 text-[#178d19] text-xs sm:text-sm uppercase tracking-widest font-semibold",
-                        children: "Community Takeover",
-                      }),
-                    }),
+                    
                     (0, t.jsx)("h1", {
                       className:
                         "font-[family-name:var(--font-display)] text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-[#178d19] mb-4",
@@ -1784,7 +1776,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                                 clipRule: "evenodd",
                               }),
                             }),
-                            (0, t.jsx)("span", { children: "LP Locked" }),
+                            (0, t.jsx)("span", { children: "LP Burnt" }),
                           ],
                         }),
                         (0, t.jsxs)("div", {
@@ -2024,7 +2016,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       (0, t.jsx)("p", {
                         className:
                           "text-[#178d19] font-[family-name:var(--font-display)] text-xl sm:text-2xl lg:text-3xl mb-2",
-                        children: "Locked",
+                        children: "Burnt",
                       }),
                       (0, t.jsx)("p", {
                         className:
@@ -2104,7 +2096,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       (0, t.jsx)("p", {
                         className:
                           "text-white font-semibold group-hover:text-[#178d19] transition-colors",
-                        children: "LP Locked",
+                        children: "LP Burnt",
                       }),
                       (0, t.jsx)("p", {
                         className: "text-white/60 text-sm mt-1",
