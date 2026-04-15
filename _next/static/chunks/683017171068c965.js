@@ -1309,7 +1309,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                           children: "Buy WOJAK",
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://t.me/WojakOG",
+                          href: "https://t.me/Wojak_Portal",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className: "btn-secondary text-lg px-8 py-4",
@@ -2576,7 +2576,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                           "Know the feels? Share your own Wojak memes with the community!",
                       }),
                       (0, t.jsxs)("a", {
-                        href: "https://t.me/WojakOG",
+                        href: "https://t.me/Wojak_Portal",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className:
@@ -2652,7 +2652,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
         {
           name: "Telegram",
           description: "Join the feels chat",
-          href: "https://t.me/WojakOG",
+          href: "https://t.me/Wojak_Portal",
           icon: (0, t.jsx)("svg", {
             className: "w-8 h-8",
             fill: "currentColor",
@@ -2666,7 +2666,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
         {
           name: "X (Twitter)",
           description: "Follow for updates",
-          href: "https://x.com/WojakToken",
+          href: "https://x.com/Wojaktoken_Eth",
           icon: (0, t.jsx)("svg", {
             className: "w-8 h-8",
             fill: "currentColor",
@@ -2798,7 +2798,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       "We are all like Wojak. Join the community and just be yourself. All frens welcome.",
                   }),
                   (0, t.jsx)("a", {
-                    href: "https://t.me/WojakOG",
+                    href: "https://t.me/Wojak_Portal",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
@@ -2876,7 +2876,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                   className: "flex items-center gap-4",
                   children: [
                     (0, t.jsx)("a", {
-                      href: "https://t.me/WojakOG",
+                      href: "https://t.me/Wojak_Portal",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
@@ -2892,7 +2892,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       }),
                     }),
                     (0, t.jsx)("a", {
-                      href: "https://x.com/WojakToken",
+                      href: "https://x.com/Wojaktoken_Eth",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
